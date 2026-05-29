@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=180&section=header&text=Yisus%20Labs&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Transformando%20ideas%20en%20software&descSize=20&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- BADGE DE PRESENTACION -->
-<a href="https://github.com/DevYisusD">
+<a href="https://github.com/MactrioCO">
   <img src="https://img.shields.io/badge/👋_Hola!_Soy_Jesus-6366f1?style=for-the-badge&logo=handshake&logoColor=white" alt="Saludo"/>
 </a>
 
@@ -79,13 +79,13 @@
 
 <div align="center">
 
-<a href="https://github.com/DevYisusD">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevYisusD&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevYisusD&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=6366f1&text_color=c9d1d9&langs_count=8"/>
+<a href="https://github.com/MactrioCO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MactrioCO&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MactrioCO&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=6366f1&text_color=c9d1d9&langs_count=8"/>
 </a>
 
 <!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevYisusD&theme=radical&background=0d1117&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MactrioCO&theme=radical&background=0d1117&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9" width="70%"/>
 
 </div>
 
@@ -104,7 +104,7 @@ App de gestión financiera personal con escritorio (Electron) y versión web. Au
 
 **Stack:** `React` `TypeScript` `Vite` `Electron` `Supabase`
 
-[![Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevYisusD/money-manager)
+[![Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MactrioCO/money-manager)
 
 </td>
 <td width="50%">
@@ -159,7 +159,7 @@ Sistema de gestión contable y administrativa. Control de ingresos, egresos, fac
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevYisusD&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&area_color=6366f1&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MactrioCO&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&area_color=6366f1&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -173,7 +173,7 @@ Sistema de gestión contable y administrativa. Control de ingresos, egresos, fac
 
 [![Email](https://img.shields.io/badge/📧_jesusdramirez26@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesusdramirez26@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573232851942)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevYisusD)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MactrioCO)
 
 </div>
 
@@ -185,7 +185,7 @@ Sistema de gestión contable y administrativa. Control de ingresos, egresos, fac
 
 ### 💡 *"Transformando ideas en software, una línea de código a la vez."*
 
-<img src="https://komarev.com/ghpvc/?username=DevYisusD&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Visitas al perfil"/>
+<img src="https://komarev.com/ghpvc/?username=MactrioCO&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Visitas al perfil"/>
 
 <br/>
 
