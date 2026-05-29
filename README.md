@@ -29,7 +29,11 @@
 
 ## 🧑‍💻 Sobre Mi
 
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400"/>
+<br/>
+
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
+
+<br/>
 
 </div>
 
@@ -154,11 +158,13 @@
 
 ## 🚀 Proyectos Destacados
 
-<img src="https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif" width="100"/>
+<br/>
 
-</div>
+<img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="100"/>
 
 <br/>
+
+</div>
 
 <table>
 <tr>
@@ -166,7 +172,7 @@
 
 ### 💰 Money Manager
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="120"/>
 
 App de gestión financiera personal con versión de escritorio (Electron) y web. Autenticación con Supabase, generación de reportes PDF, modo offline con PWA y dashboard interactivo.
 
@@ -181,7 +187,7 @@ App de gestión financiera personal con versión de escritorio (Electron) y web.
 
 ### 📊 La Mayorista
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120"/>
 
 Sistema empresarial integral para comercialización mayorista: inventario, compras, ventas/POS, contabilidad, facturación electrónica CFDI y dashboard ejecutivo.
 
@@ -194,7 +200,7 @@ Sistema empresarial integral para comercialización mayorista: inventario, compr
 
 ### 🧵 Hilos de Amor
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="120"/>
 
 Plataforma web para empresa de costura y diseño. Catálogo de servicios, galería de trabajos, formulario de contacto con EmailJS y diseño responsive.
 
@@ -205,7 +211,7 @@ Plataforma web para empresa de costura y diseño. Catálogo de servicios, galer�
 
 ### 📒 Cuentas Claras
 
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/2M0LpzI4U5Sg5iErWL/giphy.gif" width="120"/>
 
 Sistema de gestión contable y administrativa completo. Control de ingresos, egresos, facturación electrónica y generación de reportes financieros en tiempo real.
 
@@ -229,7 +235,7 @@ Sistema de gestión contable y administrativa completo. Control de ingresos, egr
 <tr>
 <td align="center" width="25%">
 
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="60"/>
 
 **📱 Apps Móviles**
 
@@ -240,7 +246,7 @@ Sistema de gestión contable y administrativa completo. Control de ingresos, egr
 </td>
 <td align="center" width="25%">
 
-<img src="https://media.giphy.com/media/xT9IgDEI1iZyb2wqo8/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"/>
 
 **🌐 Páginas Web**
 
@@ -251,7 +257,7 @@ Sistema de gestión contable y administrativa completo. Control de ingresos, egr
 </td>
 <td align="center" width="25%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/oaDcc0LTCuIAiGYrzn/giphy.gif" width="60"/>
 
 **📊 Sistemas Contables**
 
@@ -262,7 +268,7 @@ Sistema de gestión contable y administrativa completo. Control de ingresos, egr
 </td>
 <td align="center" width="25%">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60"/>
 
 **🏗️ Sistemas de Gestión**
 
@@ -318,7 +324,7 @@ Sistema de gestión contable y administrativa completo. Control de ingresos, egr
 
 <br/>
 
-### 💡 *"Transformando ideas en software, una línea de código a la vez."* — Yisus Labs
+### 💡 *"Programar hasta no poder más"* — Yisus Labs
 
 <br/>
 
